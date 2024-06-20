@@ -14,6 +14,7 @@ func main() {
 func NameOfFunction(val) {
 	fmt.Println(val)
 }
+
 func nameOfFunction() {
 	fmt.Println("Hello")
 }
