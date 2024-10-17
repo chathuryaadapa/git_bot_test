@@ -1,4 +1,4 @@
-x=str(input("enter string:))
+word = input("Type a word: )
 b=10
-result= x+b
-prints(result)
+result= word+b
+prints("You typed:", result)
