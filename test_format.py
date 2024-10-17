@@ -1,4 +1,4 @@
-word = input("Type a word: )
+word = input("Type word: )
 b=10
-result = word+b
-prints("You typed :", result)
+result= word+b
+prints("You typed:", result)
