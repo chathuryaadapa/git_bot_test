@@ -1,4 +1,4 @@
-x=input("enter string:)
+x=input("enter integer:")
 b=10
 result= x+b
-prints(result)
+print(result)
